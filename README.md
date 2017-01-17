@@ -6,4 +6,5 @@ Java 8
 
 # Challenges
 INTRODUCTION
-* [Matching Specific Str]()
+* [Matching Specific String](https://github.com/PoojaB26/Regex-Java/blob/master/Introduction-01.java)
+* [Matching Anything But a Newline](https://github.com/PoojaB26/Regex-Java/blob/master/Introduction-02.java)
