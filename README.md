@@ -24,3 +24,12 @@ REPETITIONS
 * [Matching Zero Or More Repetitions](https://github.com/PoojaB26/Regex-Java/blob/master/Repetition-03.java)
 * [Matching One Or More Repetitions](https://github.com/PoojaB26/Regex-Java/blob/master/Repetition-04.java)
 * [Matching Ending Items](https://github.com/PoojaB26/Regex-Java/blob/master/Repetition-05.java)
+
+GROUPING AND CAPTURING
+* [Matching Word Boundaries](https://github.com/PoojaB26/Regex-Java/blob/master/Grouping-01.java)
+* [Capturing & Non-Capturing Groups](https://github.com/PoojaB26/Regex-Java/blob/master/Grouping-02.java)
+* [Alternative Matching](https://github.com/PoojaB26/Regex-Java/blob/master/Grouping-03.java)
+
+BACKREFERENCES
+* [Matching Same Text Again & Again](https://github.com/PoojaB26/Regex-Java/blob/master/Backreference-01.java)
+* [Backreferences To Failed Groups]()
